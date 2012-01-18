@@ -30,7 +30,7 @@ Liferay bundles contain the same directory structure regardless of application s
 
 <!-- | TODO: This image needs to be updated to the 6.1 release when we have a build. | -->
 
-![Figure 11.1: Bundle directory structure](https://github.com/reizero00/liferay-docs/edit/master/userGuide/images/02-bundle-directory-structure.png) 
+![Figure 11.1](https://github.com/reizero00/liferay-docs/blob/master/userGuide/images/02-starting-liferay-on-websphere.png) 
 
 Inside this folder, there are folders for various purposes:
 
